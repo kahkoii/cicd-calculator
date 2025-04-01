@@ -53,7 +53,7 @@ function App() {
       {result != null && (
         <p className="text-center text-3xl font-bold">{result}</p>
       )}
-
+      <h1>Kah Ho's calculator app</h1>
       <div className="flex w-full flex-row items-center gap-4">
         <p>x is: </p>
         <input
